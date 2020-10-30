@@ -1,0 +1,27 @@
+Return-Path: <差出アドレス>
+Delivered-To: 宛先アドレス
+Received: from ホスト名
+	by ホスト名 with LMTP
+	id Un2aKfFbm19MZC4AapXL4g
+	(envelope-from <差出アドレス>)
+	for <宛先アドレス>; Fri, 30 Oct 2020 09:18:57 +0900
+Received: from localhost (localhost [127.0.0.1])
+	by ホスト名 (Postfix) with ESMTP id A545E30061A
+	for <宛先アドレス>; Fri, 30 Oct 2020 09:18:57 +0900 (JST)
+From: 差出アドレス
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=***;
+	s=***; t=1604017137;
+	bh=Hy8+9SZM4DU/l7gqCg7gaeFPh0mwkHNM3P0+ppv6H44=; h=From:To:Subject;
+	b=EqYtgquaVVsOokH8YnVYcbBtWI2gUtN44N3FG45fhTnpTPBwHqajgKUSwLatvfUcq
+	 FQ5YO/t/iIfmmgfAzpQmgY4ruU9Pgmw9xMCHW60dFYIinaDhdAkIjgXrC8ofvY58VJ
+	 zSUAHP4FlXnyAycYYLN3JHL78FraIXbprK675xdU=
+To: 宛先アドレス
+Subject: =?utf-8?b?44OG44K544OI44Oh44O844Or?=
+Mime-Version: 1.0
+Date: Fri, 30 Oct 2020 00:18:55 GMT
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=utf-8
+Message-Id: <20201030001857.A545E30061A@ホスト名>
+
+44OG44K544OI
+
